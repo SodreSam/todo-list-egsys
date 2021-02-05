@@ -1,7 +1,7 @@
-<h1  align="center"> FoxMarket </h1>
+<h1  align="center"> Todo List - Suas tarefas em dia </h1>
 
 
-<p align="center">🚀 Desafio técnico para vaga de Desenvolvedor Front-End ReactJS</p>
+<p align="center">🚀 Desafio técnico para vaga de Desenvolvedor Front-End (VueJS)</p>
 
 <hr>
 
