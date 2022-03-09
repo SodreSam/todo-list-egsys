@@ -81,5 +81,5 @@ npm run build --report
 <hr>
 
 
-<p align="center">Tirando a parte do Javascript em si, tudo o que foi desenvolvido utilizando Vue foi aplicado com o conhecimento que adquiri nos últimos dias, pois nunca havia tido contato com a tecnologia em questão. Ainda que precise de diversos ajustes, estou contente com o resultado que estou tendo. Terá continuidade mesmo após o envio para avaliação, para que então eu possa implementar melhorias e aprender ainda mais.</p>
+<p align="center">Tirando a parte do Javascript em si, tudo o que foi desenvolvido utilizando Vue foi aplicado com o conhecimento que adquiri nos últimos dias, pois nunca tive contato com a tecnologia em questão. Alguns ajustes ainda são necessários, mas estou contente com o resultado que estou tendo. Terá continuidade mesmo após o envio para avaliação, para que então eu possa implementar melhorias e aprender ainda mais.</p>
 	
